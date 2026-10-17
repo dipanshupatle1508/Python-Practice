@@ -1,0 +1,13 @@
+#Accept two numbers and print the greatest between them.
+
+NUM1= int(input("please enter first number :-"))
+NUM2= int(input("now enter second number :-"))
+
+if NUM1>NUM2 :
+    print(f"{NUM1} IS GREATER THAN {NUM2}")
+    
+elif NUM1<NUM2 :
+    print(f"{NUM2} IS GREATER THAN {NUM1}")
+    
+else :
+    print("both values are same .")
