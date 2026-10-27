@@ -1,0 +1,5 @@
+#Display numbers from -10 to -1 using for loop         - ez question practice for (for loop)
+
+
+for i in range (-10,0):
+    print(i)
